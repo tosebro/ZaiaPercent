@@ -2,7 +2,7 @@
 ZAIA Percent is a Chrome extension that updates percentage values in a web page to 1000%.
 
 ## Install
-Install ZAIA Percent via the Chrome Web Store. (currently under review)
+Install ZAIA Percent [here](https://chrome.google.com/webstore/detail/zaia-percent/ghihnikgdbdjncpdgifpoenmbobdpnhm) via the Chrome Web Store.
 
 ## Usage
 - View a web page and click an extension icon beside the address bar.
